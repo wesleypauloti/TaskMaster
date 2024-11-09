@@ -1,6 +1,7 @@
 # **Gerenciamento de Tarefas** 
 
-![image](https://github.com/user-attachments/assets/cd5fe943-8851-4bf9-9828-a0e19816470b)
+<img src="https://github.com/user-attachments/assets/cd5fe943-8851-4bf9-9828-a0e19816470b" width="300" />
+
 
 Ao clicar na tarefa mostra os detalhes
 
