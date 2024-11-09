@@ -5,15 +5,19 @@ Funcionalidades
 Autenticação de Usuário: Os usuários podem se cadastrar e fazer login para acessar o sistema.  
 Criação de Tarefas: O sistema permite que os usuários criem novas tarefas.  
 Exclusão de Tarefas: Tarefas podem ser excluídas a qualquer momento.  
-Exibição de Tarefas: Todas as tarefas criadas por um usuário são exibidas na interface principal.  
+Exibição de Tarefas: Todas as tarefas criadas por um usuário são exibidas na interface principal. 
+
 Tecnologias Usadas  
 Frontend: React.js  
 Backend: Node.js com Express  
 Banco de Dados: MongoDB (ou o banco de dados que você estiver usando)  
 Autenticação: JWT (JSON Web Tokens)  
+
 Como Rodar o Projeto  
+
 Requisitos  
-Node.js instalado na sua máquina.  
+Node.js instalado na sua máquina. 
+
 Configuração do Backend  
 Clone o repositório do projeto.  
 
