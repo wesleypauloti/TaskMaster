@@ -48,22 +48,29 @@ Este projeto é um sistema simples de gerenciamento de tarefas, permitindo que o
 
 ### **Configuração do Frontend**
 
-Navegue até a pasta do frontend e instale as dependências.  
-cd frontend  
-npm install  
-Inicie o servidor frontend.  
-npm start  
+1. Navegue até a pasta do frontend e instale as dependências.
+   ```bash
+   cd frontend  
+   npm install
+     
+2. Inicie o servidor frontend.
+    ```bash
+   npm start  
 
 Agora, o aplicativo estará rodando na sua máquina localmente.  
 
-Como Contribuir  
+---
 
-Faça o fork deste repositório.  
-Crie uma branch para a sua feature (git checkout -b feature-nome-da-feature).  
-Comite suas alterações (git commit -m 'Add new feature').  
-Envie para o repositório remoto (git push origin feature-nome-da-feature).  
-Abra um Pull Request.
+### **Como Contribuir**
 
-Licença  
+1. Faça o fork deste repositório.
+2. Crie uma branch para a sua feature (git checkout -b feature-nome-da-feature).
+3. Comite suas alterações (git commit -m 'Add new feature').
+4. Envie para o repositório remoto (git push origin feature-nome-da-feature).
+5. Abra um Pull Request.
+
+---
+
+### **Licença**
 
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.  
