@@ -13,23 +13,26 @@ Este projeto é um sistema simples de gerenciamento de tarefas, permitindo que o
 
 ---
 
-Tecnologias Usadas  
+## **Tecnologias Usadas**
 
-Frontend: React.js  
-Backend: Node.js com Express  
-Banco de Dados: MongoDB (ou o banco de dados que você estiver usando)  
-Autenticação: JWT (JSON Web Tokens)  
+- Frontend: React.js  
+- Backend: Node.js com Express  
+- Banco de Dados: MongoDB (ou o banco de dados que você estiver usando)  
+- Autenticação: JWT (JSON Web Tokens)
 
-Como Rodar o Projeto  
+---
 
-Requisitos  
+## **Como Rodar o Projeto**
 
-Node.js instalado na sua máquina. 
+### **Requisitos**
 
-Configuração do Backend  
+- Node.js instalado na sua máquina.
 
-Clone o repositório do projeto.  
-git clone <url-do-repositório>  
+### **Configuração do Backend**  
+
+1. Clone o repositório do projeto.
+   ```bash
+   git clone <url-do-repositório>
 Navegue até a pasta do backend e instale as dependências.  
 cd backend  
 npm install  
