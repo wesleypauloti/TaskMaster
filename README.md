@@ -2,12 +2,16 @@
 
 Este projeto é um sistema simples de gerenciamento de tarefas, permitindo que os usuários possam criar, listar e excluir tarefas. O objetivo deste projeto é fornecer uma plataforma fácil de usar para gerenciamento de atividades diárias.  
 
-Funcionalidades  
+---
 
-Autenticação de Usuário: Os usuários podem se cadastrar e fazer login para acessar o sistema.  
-Criação de Tarefas: O sistema permite que os usuários criem novas tarefas.  
-Exclusão de Tarefas: Tarefas podem ser excluídas a qualquer momento.  
-Exibição de Tarefas: Todas as tarefas criadas por um usuário são exibidas na interface principal. 
+## **Funcionalidades**
+
+- **Autenticação de Usuário: Os usuários podem se cadastrar e fazer login para acessar o sistema.  
+- **Criação de Tarefas: O sistema permite que os usuários criem novas tarefas.  
+- **Exclusão de Tarefas: Tarefas podem ser excluídas a qualquer momento.  
+- **Exibição de Tarefas: Todas as tarefas criadas por um usuário são exibidas na interface principal.
+
+---
 
 Tecnologias Usadas  
 
