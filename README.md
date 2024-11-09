@@ -1,5 +1,11 @@
 # **Gerenciamento de Tarefas** 
 
+![image](https://github.com/user-attachments/assets/cd5fe943-8851-4bf9-9828-a0e19816470b)
+
+Ao clicar na tarefa mostra os detalhes
+
+![image](https://github.com/user-attachments/assets/2c88e6e3-9209-49e8-9ff1-968ba6a10246)
+
 Este projeto é um sistema simples de gerenciamento de tarefas, permitindo que os usuários possam criar, listar e excluir tarefas. O objetivo deste projeto é fornecer uma plataforma fácil de usar para gerenciamento de atividades diárias.  
 
 ---
