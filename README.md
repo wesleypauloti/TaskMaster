@@ -33,15 +33,18 @@ Este projeto é um sistema simples de gerenciamento de tarefas, permitindo que o
 1. Clone o repositório do projeto.
    ```bash
    git clone <url-do-repositório>
-Navegue até a pasta do backend e instale as dependências.  
+2. Navegue até a pasta do backend e instale as dependências.  
 cd backend  
-npm install  
-Crie um arquivo .env na raiz do projeto e defina a variável de ambiente JWT_SECRET com um valor secreto para o JWT.  
+npm install
+
+3. Crie um arquivo .env na raiz do projeto e defina a variável de ambiente JWT_SECRET com um valor secreto para o JWT.  
+
 JWT_SECRET=sua-chave-secreta  
-Inicie o servidor backend.  
+
+4. Inicie o servidor backend.  
 npm start  
 
-Configuração do Frontend  
+### **Configuração do Frontend**
 
 Navegue até a pasta do frontend e instale as dependências.  
 cd frontend  
