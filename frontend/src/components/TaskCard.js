@@ -25,11 +25,11 @@ const TaskCard = ({ task, setTasks, tasks }) => {
 
     return (
         <li>
-            <span onClick={toggleDescription} style={{ cursor: 'pointer' }}>{task.title}</span>
-            <button onClick={() => handleDelete(task._id)}>Delete</button>
+            <span onClick={toggleDescription} style={{ cursor: 'pointer', minWidth: "30%", textAlign: 'left' }}>{task.title}</span>
 
             {/* Exibe a descrição somente se estiver visível */}
-            {isDescriptionVisible && <p>{task.description}</p>}
+            {isDescriptionVisible && <p style={{ maxWidth: "70%", textAlign: 'left' }}>{task.description}</p>}
+            <button onClick={() => handleDelete(task._id)}>Delete</button>
         </li>
     );
 };
